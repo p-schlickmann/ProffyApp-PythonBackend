@@ -43,9 +43,16 @@ body, textarea, input, button {
   width: 90vw;
   max-width: 700px; }
 
+  button {
+    outline: 0
+  }
+
 @media (min-width:700){
     :root{
         font-size: 62.5%;
+    }
+    button {
+      outline: 0
     }
 }
 
