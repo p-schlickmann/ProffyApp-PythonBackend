@@ -57,9 +57,9 @@
   .total-connections img {
     margin-left: 0.8rem; }
 
-@media (min-width: 1100px) {
+@media (min-width: 1025px) {
   #page-landing #container {
-    max-width: 1100px;
+    max-width: 1025px;
     display: grid;
     grid-template-columns: 2fr 1fr 2fr;
     grid-template-rows: 350px, 1fr;
