@@ -107,12 +107,12 @@
     padding-top: 1.8rem;
     img{
         height: 3.8rem;
-        
+        transition: 0.2s;
+        cursor: pointer;
     }
-    transition: 0.2s;
-    cursor: pointer;
+    
 }
-#schedule-items > div > div.delete-icon:hover{
+#schedule-items > div > div.delete-icon img:hover{
     transform: translateY(-3px);
 }
 
