@@ -1,3 +1,2 @@
-oi = 'domingo'
+from . import models
 
-print(len(oi))
