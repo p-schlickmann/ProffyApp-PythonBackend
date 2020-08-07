@@ -1,2 +1,9 @@
 web/venv/
 web/.idea/
+web/server/static/server/styles/main.sccs
+web/server/static/server/styles/partials/forms.sccs
+web/server/static/server/styles/partials/header.sccs
+web/server/static/server/styles/partials/give-classes.sccs
+web/server/static/server/styles/partials/page-landing.sccs
+web/server/static/server/styles/partials/page-study.sccs
+web/web/settings.py
